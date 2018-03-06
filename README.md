@@ -4,16 +4,16 @@ This repository contains a sample REST service implemented in Golang.
 
 ## Quick Start Guide
 
-1. Download and install golang service sample:
+1. Download and install todos golang service sample:
 
    ```bash
-   go get github.com/imesh/golang-service-sample
+   go get github.com/imesh/golang-service-sample/todos
    ```
 
-2. Start the service:
+2. Start the todos service:
 
    ```bash
-   golang-service-sample
+   todos
    ```
 
 3. Make following HTTP requests:
