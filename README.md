@@ -20,6 +20,7 @@ This repository contains a sample REST service implemented in Golang.
 
    ```bash
    curl -v http://localhost:8080/
+   ...
    > GET / HTTP/1.1
    > Host: localhost:8080
    > User-Agent: curl/7.54.0
@@ -51,6 +52,7 @@ This repository contains a sample REST service implemented in Golang.
 
    ```bash
    curl -v http://localhost:8080/todos/foo
+   ...
    > GET /todos/foo HTTP/1.1
    > Host: localhost:8080
    > User-Agent: curl/7.54.0
